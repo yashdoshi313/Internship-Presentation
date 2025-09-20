@@ -2,7 +2,7 @@
 
 This repository documents my internship progress at **Slavin Raphael**, a Toronto-based multi-brand fashion sales agency specializing in premium footwear and apparel distribution across North America.  
 
-The work involved applying **data analytics, forecasting, and dashboarding techniques** to solve real-world business problems in financial planning, sales returns, and export compliance. [View Full Presentation (PDF)](path/to/.pdf)
+The work involved applying **data analytics, forecasting, and dashboarding techniques** to solve real-world business problems in financial planning, sales returns, and export compliance. [View Full Presentation (PDF)](path/to/Co-op Final Presentation - 21st April 2025.pdf)
 
 
 ---
